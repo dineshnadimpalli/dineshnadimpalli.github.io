@@ -1,6 +1,5 @@
 {
   "name": "dineshnadimpalli",
-  "homepage" : "http://dineshnadimpalli.github.io/myportfolio",
   "version": "0.1.0",
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
