@@ -1,0 +1,176 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Video-Converter",
+            "url": "https://github.com/dineshnadimpalli/Video-Converter",
+            "description": "A simple cross-platform desktop app to convert one video format to another with simple UI using ElectronJs",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ElectronJs",
+                    "iconifyClass": "simple-icons:electron",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                },
+                {
+                    "name": "ReactJs",
+                    "iconifyClass": "simple-icons:react",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                },
+                {
+                    "name": "Webpack",
+                    "iconifyClass": "logos:webpack"
+                },
+                {
+                    "name": "Redux",
+                    "iconifyClass": "logos:redux"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "TaskTimer-Toolbar_Extension",
+            "url": "https://github.com/dineshnadimpalli/TaskTimer-Toolbar_Extension",
+            "description": "A cross-platform timer app to track time while doing tasks which is acts as a desktop toolbar extension",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ElectronJs",
+                    "iconifyClass": "simple-icons:electron",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                },
+                {
+                    "name": "ReactJs",
+                    "iconifyClass": "simple-icons:react",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                },
+                {
+                    "name": "Webpack",
+                    "iconifyClass": "logos:webpack"
+                },
+                {
+                    "name": "Redux",
+                    "iconifyClass": "logos:redux"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "findGithubJobs",
+            "url": "https://github.com/dineshnadimpalli/findGithubJobs",
+            "description": "A Javascript based web app to show the list of jobs posted on Github using Redis, React and NodeJS with Express",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ReactJs",
+                    "iconifyClass": "simple-icons:react",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                },
+                {
+                    "name": "Redux",
+                    "iconifyClass": "logos:redux"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "React-Redux-Calculator",
+            "url": "https://github.com/dineshnadimpalli/React-Redux-Calculator",
+            "description": "A simple calculator using react, redux and mathjs",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ReactJs",
+                    "iconifyClass": "simple-icons:react",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                },
+                {
+                    "name": "Redux",
+                    "iconifyClass": "logos:redux"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Javascript-QuoteGenerator",
+            "url": "https://github.com/dineshnadimpalli/Javascript-QuoteGenerator",
+            "description": "QuoteGenerator is a WebApp to generate a random and awesome quotes of all time",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos:html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos:css-3"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Local-Weather-App",
+            "url": "https://github.com/dineshnadimpalli/Local-Weather-App",
+            "description": "A Simple interface to detect your location and to show minimum weather information",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos:html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos:css-3"
+                }
+            ]
+        }
+    ]
+}

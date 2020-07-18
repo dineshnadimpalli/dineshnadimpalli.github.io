@@ -1,0 +1,26 @@
+.experience-accord {
+    margin: 50px;
+}
+
+.accord-panel {
+    font-family: 'Google Sans Regular';
+}
+
+@media (max-width: 768px) {
+    .experience-accord{
+        margin: 20px;
+    }
+}
+
+/* body{
+
+    color: #FFF0EA;
+    color: #99401F;
+    color: #FFB59A;
+    color: #33150A;
+    color: #CC552A;
+    color: #FF6B35;
+    color: #E6E6E6;
+    color: #d7263d;
+    color: #FF6B3577
+} */
