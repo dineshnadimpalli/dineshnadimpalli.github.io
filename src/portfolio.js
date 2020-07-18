@@ -704,7 +704,7 @@ const projectsHeader = {
 const contactPageData = {
 	contactSection: {
 		title: "Contact Me",
-		profile_image_path: "circularProfileImg-min.png",
+		profile_image_path: "newProfilePic.png",
 		description:
 			"Feel free to reach out to me on any of the below mentioned media for colloboration or help related to JavaScript, React, React-Native, NodeJs and MongoDb",
 	},
