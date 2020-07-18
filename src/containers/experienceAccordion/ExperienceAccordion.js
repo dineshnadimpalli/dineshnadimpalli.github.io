@@ -9,7 +9,7 @@ class ExperienceAccordion extends Component {
 		return (
 			<div className="experience-accord">
 				<Accordion 
-					onChange={({ expanded }) => console.log(expanded)}
+					onChange={({ expanded }) => {}}
 					overrides={{
 						Content: {
 							style: ({ $theme }) => {
