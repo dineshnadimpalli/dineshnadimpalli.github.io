@@ -514,7 +514,7 @@ const experience = {
 				{
 					title: "Software Engineer",
 					company: "Enquero Global",
-					company_url: "https://enquero.com/",
+					company_url: "https://www.linkedin.com/company/enquero/",
 					logo_path: "enqueroLogo.gif",
 					duration: "Oct 2019 - PRESENT",
 					location: "Bengaluru, India",
@@ -545,7 +545,7 @@ const experience = {
 				{
 					title: "Software Developer",
 					company: "MyAnatomy Integration Pvt Ltd",
-					company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+					company_url: "https://www.linkedin.com/company/myanatomy/",
 					logo_path: "myanatomyLogo.png",
 					duration: "Aug 2018 - Sep 2019",
 					location: "Bengaluru, India",
@@ -589,7 +589,7 @@ const experience = {
 				{
 					title: "Software Development Intern",
 					company: "MyAnatomy Integration Pvt Ltd",
-					company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+					company_url: "https://www.linkedin.com/company/myanatomy/",
 					logo_path: "myanatomyLogo.png",
 					duration: "Aug 2018 - Sep 2019",
 					location: "Bengaluru, India",
