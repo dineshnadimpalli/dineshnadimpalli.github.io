@@ -22,32 +22,32 @@ const socialMediaLinks = [
 	{
 		name: 'Github',
 		link: 'https://github.com/dineshnadimpalli',
-		className: 'github',
-		iconName: 'fa-github'
+		iconName: 'fa-github',
+		backgroundColor: '#333'
 	},
 	{
 		name: 'LinkedIn',
 		link: 'https://www.linkedin.com/in/dineshnadimpalli/',
-		className: 'linkedin',
-		iconName: 'fa-linkedin-in'
+		iconName: 'fa-linkedin-in',
+		backgroundColor: '#0e76a8'
 	},
 	{
 		name: 'Gmail',
 		link: 'mailto:dinesh601048@gmail.com',
-		className: 'google',
-		iconName: 'fa-google'
+		iconName: 'fa-google',
+		backgroundColor: '#ea4335'
 	},
 	{
 		name: 'Stack Overflow',
 		link: 'https://stackoverflow.com/users/8238968/dinesh-nadimpalli?tab=profile',
-		className: 'stackoverflow',
-		iconName: 'fa-stack-overflow'
+		iconName: 'fa-stack-overflow',
+		backgroundColor: '#ef8236'
 	},
 	{
 		name: 'WhatsApp',
 		link: 'tel:+91-88979121499',
-		className: 'whatsapp',
-		iconName: 'fa-whatsapp'
+		iconName: 'fa-whatsapp',
+		backgroundColor: '#25D366'
 	}
 ]
 
