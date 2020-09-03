@@ -37,7 +37,7 @@ class Contact extends Component {
 										<p className="contact-header-detail-text subTitle" style={{ color: theme.secondaryText }}>
 											{ContactData["description"]}
 										</p>
-										<SocialMedia />
+										<SocialMedia theme={theme} />
 										{/* <div className="resume-btn-div">
 											<Button
 												text="See My Resume"

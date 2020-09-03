@@ -2,6 +2,107 @@
     "data": [
         {
             "id": 1,
+            "name": "NodeJS-Zoom-Clone",
+            "url": "https://github.com/dineshnadimpalli/NodeJS-Zoom-Clone",
+            "description": "A NodeJS based Zoom web app clone with features such as room creation, voice controls, video controls and chat room",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "NodeJS",
+                    "iconifyClass": "logos:nodejs"
+                },
+                {
+                    "name": "Socket.io",
+                    "iconifyClass": "cib:socket-io",
+                    "style": {
+                        "color": "#010101"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "React-Google-Search-Clone",
+            "url": "https://github.com/dineshnadimpalli/React-Google-Search-Clone",
+            "description": "A react-based Google Search engine clone application to search through the web using google's Custom Search JSON API and Programmable Search Engine by Google",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ReactJs",
+                    "iconifyClass": "simple-icons:react",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "React-Spotify-UI-Clone",
+            "url": "https://github.com/dineshnadimpalli/React-Spotify-UI-Clone",
+            "description": "A react-based Spotify UI clone application using Spotify APIs for Spotify login/authentication, User details, getting, playlists, getting personal discover weekly",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ReactJs",
+                    "iconifyClass": "simple-icons:react",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "JSfaceDetection",
+            "url": "https://github.com/dineshnadimpalli/JSfaceDetection",
+            "description": "A simple web app to detect the facial expressions, face landmark tracking using face-api.js",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "ScreenRecorder_App",
+            "url": "https://github.com/dineshnadimpalli/ScreenRecorder_App",
+            "description": "A Cross-platform screen recorder project to record different sections of your machine using ElectronJS",
+            "languages": [
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ElectronJs",
+                    "iconifyClass": "simple-icons:electron",
+                    "style": {
+                        "color": "#61DAFB",
+                        "backgroundColor": "#2c2e39",
+                        "borderRadius": "50px",
+                        "padding": "5px"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
             "name": "Video-Converter",
             "url": "https://github.com/dineshnadimpalli/Video-Converter",
             "description": "A simple cross-platform desktop app to convert one video format to another with simple UI using ElectronJs",
@@ -41,7 +142,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": 7,
             "name": "TaskTimer-Toolbar_Extension",
             "url": "https://github.com/dineshnadimpalli/TaskTimer-Toolbar_Extension",
             "description": "A cross-platform timer app to track time while doing tasks which is acts as a desktop toolbar extension",
@@ -81,7 +182,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": 8,
             "name": "findGithubJobs",
             "url": "https://github.com/dineshnadimpalli/findGithubJobs",
             "description": "A Javascript based web app to show the list of jobs posted on Github using Redis, React and NodeJS with Express",
@@ -107,7 +208,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": 9,
             "name": "React-Redux-Calculator",
             "url": "https://github.com/dineshnadimpalli/React-Redux-Calculator",
             "description": "A simple calculator using react, redux and mathjs",
@@ -133,7 +234,7 @@
             ]
         },
         {
-            "id": 5,
+            "id": 10,
             "name": "Javascript-QuoteGenerator",
             "url": "https://github.com/dineshnadimpalli/Javascript-QuoteGenerator",
             "description": "QuoteGenerator is a WebApp to generate a random and awesome quotes of all time",
@@ -153,7 +254,7 @@
             ]
         },
         {
-            "id": 6,
+            "id": 11,
             "name": "Local-Weather-App",
             "url": "https://github.com/dineshnadimpalli/Local-Weather-App",
             "description": "A Simple interface to detect your location and to show minimum weather information",

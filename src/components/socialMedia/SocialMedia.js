@@ -9,7 +9,7 @@ const IconWrapper = styled.span`
 		background-color: ${props => props.backgroundColor};
 	}
 	&:hover i {
-		background-color: black;
+		background-color: ${({theme}) => theme.text};
 		transition: 0.3s ease-in;
 	}
 `
