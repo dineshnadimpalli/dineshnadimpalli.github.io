@@ -45,7 +45,7 @@ const socialMediaLinks = [
 	},
 	{
 		name: 'WhatsApp',
-		link: 'tel:+91-88979121499',
+		link: 'tel:+91-8897912149',
 		iconName: 'fa-whatsapp',
 		backgroundColor: '#25D366'
 	}
